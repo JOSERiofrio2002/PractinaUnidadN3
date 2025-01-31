@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "nombre": "Servicar",
+        "adyacencias": [
+            4,
+            2,
+            6
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Talleres Ordo�ez",
+        "adyacencias": [
+            9,
+            6,
+            11
+        ]
+    },
+    {
+        "id": 3,
+        "nombre": "Talleres Faican",
+        "adyacencias": [
+            10,
+            5,
+            7
+        ]
+    },
+    {
+        "id": 4,
+        "nombre": "Mecanica Automotriz Riofrio",
+        "adyacencias": [
+            1,
+            6,
+            11
+        ]
+    },
+    {
+        "id": 5,
+        "nombre": "Talleres Jaramillo",
+        "adyacencias": [
+            4,
+            5,
+            3
+        ]
+    },
+    {
+        "id": 6,
+        "nombre": "Mec�nica Automtriz NIL-CAR",
+        "adyacencias": [
+            2,
+            9,
+            5
+        ]
+    },
+    {
+        "id": 7,
+        "nombre": "Talleres Mirasol ",
+        "adyacencias": [
+            5,
+            4,
+            1
+        ]
+    },
+    {
+        "id": 8,
+        "nombre": "Mecanica Automotriz El Ronco Ayora ",
+        "adyacencias": [
+            4,
+            9,
+            10
+        ]
+    },
+    {
+        "id": 9,
+        "nombre": "Mecanica Automotriz El Ronco Ayora ",
+        "adyacencias": [
+            3,
+            1,
+            5
+        ]
+    },
+    {
+        "id": 10,
+        "nombre": "Talleres Gonzalez ",
+        "adyacencias": [
+            9,
+            7,
+            5
+        ]
+    },
+    {
+        "id": 11,
+        "nombre": "Talleres de Ares ",
+        "adyacencias": [
+            9,
+            6,
+            8
+        ]
+    }
+]
