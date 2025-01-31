@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "nombre": "Servicar",
+        "descripcion": "Cambio de filtros de A/A y ventilaci�n de autos",
+        "telefono": "593979772633",
+        "horario": "24 Horas",
+        "latitude": -3.97912,
+        "longitude": -79.20344
+    },
+    {
+        "id": 2,
+        "nombre": "Talleres Ordo�ez",
+        "descripcion": "Especializado en arreglo de Motores",
+        "telefono": "2587030",
+        "horario": "Abierto las 24 Horas",
+        "latitude": -3.97812,
+        "longitude": -79.20999
+    },
+    {
+        "id": 3,
+        "nombre": "Talleres Faican",
+        "descripcion": "Especializado en arreglo de Motores",
+        "telefono": "593965791356",
+        "horario": "Abierto las 24 Horas",
+        "latitude": -3.984249,
+        "longitude": -79.19931
+    },
+    {
+        "id": 4,
+        "nombre": "Mecanica Automotriz Riofrio",
+        "descripcion": "Cambio de aceites y flitros, reparacion de frenos",
+        "telefono": "593994957211",
+        "horario": "Abierto las 24 Horas",
+        "latitude": -3.99854,
+        "longitude": -79.21829
+    },
+    {
+        "id": 5,
+        "nombre": "Talleres Jaramillo",
+        "descripcion": "Cambio de aceites y flitros",
+        "telefono": "593986574368",
+        "horario": "Abierto las 24 Horas",
+        "latitude": -3.98679,
+        "longitude": -79.89356
+    },
+    {
+        "id": 6,
+        "nombre": "Mec�nica Automtriz NIL-CAR",
+        "descripcion": "Cambio de aceites y flitros",
+        "telefono": "593968597412",
+        "horario": "Abierto las 24 Horas",
+        "latitude": -4.01519,
+        "longitude": -79.20316
+    },
+    {
+        "id": 7,
+        "nombre": "Talleres Mirasol ",
+        "descripcion": "Especialidad en autos marca Chervrolet",
+        "telefono": "593968957432",
+        "horario": "Abierto las 24 Horas",
+        "latitude": -3.9476,
+        "longitude": -79.21715
+    },
+    {
+        "id": 8,
+        "nombre": "Mecanica Automotriz El Ronco Ayora ",
+        "descripcion": "Cambio de aceite",
+        "telefono": "593988168795",
+        "horario": "Abierto las 24 Horas",
+        "latitude": -3.98595,
+        "longitude": -79.19468
+    },
+    {
+        "id": 9,
+        "nombre": "Mecanica Automotriz El Ronco Ayora ",
+        "descripcion": "Cambio de aceite",
+        "telefono": "593988168795",
+        "horario": "Abierto las 24 Horas",
+        "latitude": -3.98595,
+        "longitude": -79.19468
+    },
+    {
+        "id": 10,
+        "nombre": "Talleres Gonzalez ",
+        "descripcion": "Especialidad en autos de competencia",
+        "telefono": "593968944466",
+        "horario": "Abierto las 24 Horas",
+        "latitude": -3.98251,
+        "longitude": -79.21156
+    },
+    {
+        "id": 11,
+        "nombre": "Talleres de Ares ",
+        "descripcion": "Especialidad en motos",
+        "telefono": "59397965024",
+        "horario": "Abierto las 24 Horas",
+        "latitude": -3.99116,
+        "longitude": -79.21072
+    }
+]
